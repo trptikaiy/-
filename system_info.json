@@ -1,0 +1,109 @@
+{
+  "meta": {
+    "collected_at": "2026-10-01T20:40:35",
+    "script": "my_script.py"
+  },
+  "os": {
+    "family": "Windows",
+    "release": "11",
+    "version": "10.0.26200",
+    "architecture": "AMD64",
+    "hostname": "triplegtikaiy",
+    "boot_time": "2026-10-01T13:16:48",
+    "edition": "Professional"
+  },
+  "cpu": {
+    "model": "Intel(R) Core(TM) i5-14450HX",
+    "physical_cores": 10,
+    "logical_cores": 16,
+    "frequency_mhz": 2400.0,
+    "usage_percent": 17.8
+  },
+  "memory": {
+    "ram_total_gb": 15.61,
+    "ram_available_gb": 6.97,
+    "ram_used_percent": 55.4,
+    "swap_total_gb": 10.0,
+    "swap_used_percent": 0.5
+  },
+  "disks": [
+    {
+      "device": "C:\\",
+      "mountpoint": "C:\\",
+      "fstype": "NTFS",
+      "total_gb": 952.39,
+      "free_gb": 690.93,
+      "used_percent": 27.5
+    }
+  ],
+  "network": {
+    "Подключение по локальной сети* 9": {
+      "ipv4": [
+        "169.254.76.140"
+      ],
+      "ipv6": [
+        "fe80::ad47:f069:7f59:1999"
+      ],
+      "mac": "BC-F1-05-5A-88-AF"
+    },
+    "Подключение по локальной сети* 10": {
+      "ipv4": [
+        "169.254.12.192"
+      ],
+      "ipv6": [
+        "fe80::4640:c6c2:c59a:190e"
+      ],
+      "mac": "BE-F1-05-5A-88-AE"
+    },
+    "Беспроводная сеть": {
+      "ipv4": [
+        "192.168.0.195"
+      ],
+      "ipv6": [
+        "fe80::4a13:b5ca:13be:f7fa"
+      ],
+      "mac": "BC-F1-05-5A-88-AE"
+    },
+    "Сетевое подключение Bluetooth": {
+      "ipv4": [
+        "169.254.85.104"
+      ],
+      "ipv6": [
+        "fe80::cf6e:445:5b00:d61b"
+      ],
+      "mac": "BC-F1-05-5A-88-B2"
+    },
+    "Ethernet": {
+      "ipv4": [
+        "169.254.129.236"
+      ],
+      "ipv6": [
+        "fe80::5ef3:9bbe:f713:106b"
+      ],
+      "mac": "30-C5-99-13-4B-76"
+    },
+    "tun0": {
+      "ipv4": [
+        "10.0.0.1"
+      ],
+      "ipv6": [
+        "fe80::c1d3:369e:f147:32ce"
+      ],
+      "mac": null
+    },
+    "Loopback Pseudo-Interface 1": {
+      "ipv4": [
+        "127.0.0.1"
+      ],
+      "ipv6": [
+        "::1"
+      ],
+      "mac": null
+    }
+  },
+  "runtime": {
+    "python_version": "3.14.7",
+    "python_implementation": "CPython",
+    "process_count": 272
+  }
+}
